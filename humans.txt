@@ -1,0 +1,18 @@
+/* TEAM */
+Design and development: Charley CycoNerd
+GitHub: https://github.com/CycoNerd-WaaS
+Discord: CycoNerd
+
+/* THANKS */
+AI assistants (not human, but they helped): ChatGPT (OpenAI), Claude (Anthropic), GitHub Copilot
+Cormorant Garamond typeface: Christian Thalmann, Catharsis Fonts
+Jost typeface: Owen Earl, indestructible type*
+
+/* SITE */
+Last update: 2026/09/27
+Language: English
+Doctype: HTML5
+Standards: HTML5, CSS3, JavaScript
+Components: none (plain HTML, CSS and JavaScript, no frameworks)
+Fonts: Cormorant Garamond and Jost, self-hosted (SIL Open Font License)
+Hosting: GitHub Pages

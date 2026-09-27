@@ -1,0 +1,6 @@
+# Note: robots.txt is only read at the root of a domain, so this file takes
+# effect once the site is served from its own domain (not the github.io path).
+User-agent: *
+Allow: /
+
+Sitemap: https://cyconerd-waas.github.io/manansala-artwork-singlepage-advert/sitemap.xml
